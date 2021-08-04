@@ -1,0 +1,21 @@
+#first{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    /* margin: 100px 0px 0px 100px; */
+    border-radius: 50%;
+}
+
+#text{
+    width: 50px;
+    background-color: violet;
+    height: 50px;
+    text-align: center;
+    /* margin: 50px 50px 50px 50px; */
+    margin: 75px 0 0 75px;
+    position: absolute;
+    border-radius: 50%;
+    text-align: left;
+
+
+}

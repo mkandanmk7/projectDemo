@@ -1,0 +1,94 @@
+/* /* #id1{
+    height: 200px;
+    width: 200px;
+    
+    background-color: red;
+    display: inline-block;
+    position: relative;
+}
+/* #id2
+{
+    height: 200px;
+    width: 200px;
+    background-color:seagreen;
+    display: inline-block;
+    float: right;
+    position: relative;
+    
+} */
+/* #text{
+    text-align: center;
+    /* width: 20px;
+    /* height: 20px; */
+    /* background-color: pink;
+    position: absolute;
+    margin:100px */
+/* }   */
+
+#id1{
+    height: 200px;
+    width: 200px;
+    background-color: #ff0000;
+    position: absolute;
+}
+#text{
+    height: 50px;
+    width: 50px;
+    /* background-color: #000000; */
+    /* position: absolute; */
+    color:#ffffff;
+    /* margin:top 100px ; */
+    text-align: center;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+}
+
+/* CSS FOR HORIZONTAL BAR */
+/* header{
+    font-family: Arial, Helvetica, sans-serif;   
+    width: auto;
+    background-color: yellowgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:10px;
+}
+
+header li{  
+    display: inline-block;
+}
+
+header li a{
+    text-decoration: none;
+    color: yellow;
+    padding-right: 40px;
+}
+/* VERTICAL NAV BAR CSS */
+
+/* #left_nav_bar{
+    display: inline-block;
+    padding-right:30px;
+}
+
+#left_nav_bar li a{
+    color: yellow;
+    text-decoration: none;
+}
+
+#left_nav_bar li{
+    background-color: yellowgreen;
+    list-style-type: none;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+#left_nav_bar li:hover{
+    background-color: black;
+    cursor: pointer;
+    font-family: 30px;
+}
+
+#left_nav_bar{
+    text-transform: capitalize;
+    height: auto;
+    width: 200px;
+} */ 
