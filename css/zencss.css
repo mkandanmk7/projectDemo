@@ -7,6 +7,8 @@
 }
 
 #text{
+    text-decoration: pink;
+    align-items: center;
     width: 50px;
     background-color: violet;
     height: 50px;
